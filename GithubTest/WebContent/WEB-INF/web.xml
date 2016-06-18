@@ -19,4 +19,14 @@
     <servlet-name>GitServlet</servlet-name>
     <url-pattern>/GitServlet</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>GitTestServlet</display-name>
+    <servlet-name>GitTestServlet</servlet-name>
+    <servlet-class>com.lectopia.git.GitTestServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>GitTestServlet</servlet-name>
+    <url-pattern>/GitTestServlet</url-pattern>
+  </servlet-mapping>
 </web-app>
