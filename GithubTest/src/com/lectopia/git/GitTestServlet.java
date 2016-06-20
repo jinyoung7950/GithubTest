@@ -23,8 +23,9 @@ public class GitTestServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("Test7950");
 		System.out.println("Test0603");
-		System.out.println("±ÇÇÑ");
+		System.out.println("Â±Ã‡Ã‡Ã‘");
 		System.out.println("Git");
+		System.out.println("PULL");
 		request.getRequestDispatcher("result.jsp").forward(request, response);
 	}
 
