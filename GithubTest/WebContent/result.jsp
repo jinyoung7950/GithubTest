@@ -6,6 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
 <title>Insert title here</title>
 	<h1>Result JSP</h1>
+	<h2>issue1</h2>
 </head>
 <body>
 
